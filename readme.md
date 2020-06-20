@@ -2,7 +2,7 @@
 
 Esta serie de libros cuentan la histora de un hacker excepcional.
 
-**Jonathan Rodríguez**, git fan.
+<<<<<<< HEAD**Jonathan Rodríguez**, git & LARRY PLOTTER FAN
 
 
 
